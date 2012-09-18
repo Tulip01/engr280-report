@@ -1,3 +1,4 @@
+
 1. A cover page including: project title, course number and name,
 
 group number, list of students’ names and numbers, date of
@@ -20,15 +21,15 @@ The FAQ that he posted, isn’t all that helpful but it does give a bit of a les
 
 # Starting an Independent Game Studio
 
-## Course: ENGR 280
+<center>__Course: ENGR 280__</center>
 
-## Group number: 6
+<center>__Group number: 6__</center>
 
-## Group members: Stephen Bos, Jonathan Maxwell,
+<center>__Group members: Stephen Bos, Jonathan Maxwell__</center>
 
-## Chris Gensey, Nicolas Guillemot, Gordon Tulip
+<center>__Chris Gensey, Nicolas Guillemot, Gordon Tulip__</center>
 
-## Date of submission: September 21st 2012
+<center>__Date of submission: September 21st 2012__</center>
 
 # Abstract
 
@@ -73,7 +74,7 @@ Here is a list of questions that will be answered.
 
 Comment on the results and explain which method gives the most accurate results, and why?
 
-    Justification of the previous step including factors such as expected revenue for games as well as how frequently games can be produced.
+Justification of the previous step including factors such as expected revenue for games as well as how frequently games can be produced.
 
 4. Perform a sensitivity analysis of multiple-alternative for at least  5 parameters. Study the variation effect of parameters such as first cost, salvage value, estimated life, production rate, material cost, maintenance cost, revenue,
 
