@@ -1,35 +1,14 @@
-
-1. A cover page including: project title, course number and name,
-
-group number, list of students’ names and numbers, date of
-
-submission.
-
-2. One page abstract (doesn’t exceed 500 words): Explain the main
-
-objectives, and approaches.
-
-3. List of project tasks (must conform to project requirements and
-
-specifications) *
-
-4. Activity  time plan: Define individual responsibilities and specific
-
-deliverables.
-
-The FAQ that he posted, isn’t all that helpful but it does give a bit of a less vague description of a few points.
-
 # Starting an Independent Game Studio
 
-<center>__Course: ENGR 280__</center>
+__Course: ENGR 280__
 
-<center>__Group number: 6__</center>
+__Group number: 6__
 
-<center>__Group members: Stephen Bos, Jonathan Maxwell__</center>
+__Group members: Stephen Bos, Jonathan Maxwell__
 
-<center>__Chris Gensey, Nicolas Guillemot, Gordon Tulip__</center>
+__Chris Gensey, Nicolas Guillemot, Gordon Tulip__
 
-<center>__Date of submission: September 21st 2012__</center>
+__Date of submission: September 21st 2012__
 
 # Abstract
 
@@ -54,7 +33,6 @@ Here is a list of questions that will be answered.
 * What decisions should be made to counter which risks?
 
 # Time Plan
-## TODO: DEFINE INDIVIDUAL RESPONSIBILITIES AND SPECIFIC DELIVERABLES
 
 1. Study mutually exclusive  and/or independent  projects and define various services and revenue alternatives.
 
@@ -71,9 +49,7 @@ Here is a list of questions that will be answered.
     Annual worth analysis.
     Capitalized cost calculations.
     Payback period calculations.
-
 Comment on the results and explain which method gives the most accurate results, and why?
-
 Justification of the previous step including factors such as expected revenue for games as well as how frequently games can be produced.
 
 4. Perform a sensitivity analysis of multiple-alternative for at least  5 parameters. Study the variation effect of parameters such as first cost, salvage value, estimated life, production rate, material cost, maintenance cost, revenue,
